@@ -85,6 +85,7 @@ class App extends Component {
               <h1>Hello, World!</h1>
             </Localized>
             <input className="cta-card__input" type="text" value={this.state.locale} onChange={this.handleChange} />
+            <h2>Availabe Locales are: 'en', 'bn', 'hi', 'ur'.</h2>
           </div>
         </LocalizationProvider>
       );
