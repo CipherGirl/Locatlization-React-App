@@ -1,0 +1,3 @@
+### Localization
+
+hello = ہیلو ورلڈ۔!
